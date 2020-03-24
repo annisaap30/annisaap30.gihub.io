@@ -1,0 +1,5 @@
+body {background-color: skyblue;}
+h1 {outline-style: dotted; outline-color: blue;}
+p {color: black;}
+h2 {outline-style: dotted; outline-color: blue; color: white}
+img {border-radius: 150px}
